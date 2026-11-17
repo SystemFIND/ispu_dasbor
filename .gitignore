@@ -1,0 +1,13 @@
+ispu.db
+__pycache__/
+hasil/
+models/*/
+!models/v1/
+models/penalaan_log.csv
+models/v1/evaluasi_sensitivitas.csv
+data_sintetis/*
+!data_sintetis/SINTETIS_admin_2025-12-01_sd_2026-02-28_90hari.csv
+pipeline_final.py
+pyproject.toml
+Jalankan_Final_Colab.ipynb
+CARA_MENJALANKAN.txt

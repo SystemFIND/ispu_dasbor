@@ -1,0 +1,14 @@
+{
+ "batas_latih": "2024-06-30",
+ "data_hingga": "2025-11-30",
+ "dibuat": "2026-11-10 05:18:17",
+ "seed": 42,
+ "n_sel_model": 420,
+ "jumlah_model": 420,
+ "desain": "berbobot",
+ "bobot_stasiun_lain": 0.3,
+ "loss": "l1",
+ "target_selisih": true,
+ "jumlah_fitur": 46,
+ "hiperparameter_json": true
+}
