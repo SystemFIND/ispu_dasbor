@@ -2,7 +2,7 @@
 
 Dasbor web untuk memprediksi enam parameter Indeks Standar Pencemar Udara (PM2,5, PM10, SO₂, CO, O₃, NO₂) di lima stasiun pemantau DKI Jakarta untuk 1 sampai 7 hari ke depan, memakai XGBoost dan LightGBM.
 
-**Dasbor daring:** https://NAMA-APLIKASI.streamlit.app
+**Dasbor daring:** https://dasbor-ispu-dki.streamlit.app/
 
 Dibuat sebagai bagian dari skripsi Program Studi Teknik Informatika, Fakultas Teknologi Informasi, Universitas Tarumanagara.
 
